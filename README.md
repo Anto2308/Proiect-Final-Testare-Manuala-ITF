@@ -38,7 +38,7 @@ Playground is a suite of Selenium and RoboBrowser automated tests for [Orange HR
    1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/10x-featured-social-media-image-size)
+    ![Tux, the Linux mascot](/imagine10.png)
 
 3. Close the file.            
               
