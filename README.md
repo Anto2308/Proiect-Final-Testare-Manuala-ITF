@@ -37,6 +37,11 @@ Playground is a suite of Selenium and **RoboBrowser** automated tests for [Orang
               
     ![Tux, the Linux mascot](/imagine10.png)
 <img src="imagine10.png" width="200" height="100">
+
+| Syntax | Description |
+| :---: | :---: |
+| Header | Title |
+| Paragraph | Text |
        
               
           
