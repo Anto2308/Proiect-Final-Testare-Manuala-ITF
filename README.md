@@ -4,7 +4,7 @@ Heading level 1
 &nbsp;
 ### Introduction
 ---
-Playground is a suite of Selenium and RoboBrowser automated tests for [Orange HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login).
+Playground is a suite of Selenium and **RoboBrowser** automated tests for [Orange HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login).
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
@@ -35,11 +35,8 @@ Playground is a suite of Selenium and RoboBrowser automated tests for [Orange HR
                 <title>Test</title>
               </head>
               
-   1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
-
     ![Tux, the Linux mascot](/imagine10.png)
-
-3. Close the file.            
+<img src="imagine10.png" width="200" height="100">
+       
               
           
